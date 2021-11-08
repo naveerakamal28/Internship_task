@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68671260040",
+    "project_id": "intern-task-93aa9",
+    "storage_bucket": "intern-task-93aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68671260040:android:656255d70690a8bc46663d",
+        "android_client_info": {
+          "package_name": "com.example.deevloopers_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68671260040-9k07n00cn1r77jdp3uuo5760548u12eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZBHSoqcsxDeM-ue4bfz0WoN8B94V9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68671260040-9k07n00cn1r77jdp3uuo5760548u12eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

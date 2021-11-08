@@ -117,7 +117,7 @@ class _MyAppState extends State<MyApp> {
     MqttServerClient.withPort('broker.hivemq.com', 'flutter_client', 1883);
     client.logging(on: true);
     final connMessage = MqttConnectMessage()
-        .withWillTopic('willtopic')
+        .withWillTopic('will topic')
         .withWillMessage('Will message')
         .startClean()
         .withWillQos(MqttQos.atLeastOnce);
